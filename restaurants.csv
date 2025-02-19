@@ -1,0 +1,6 @@
+restaurant_id,name,cuisine_type,rating,location,total_tables,table_configuration,opening_hours,closing_hours
+R001,The Grand Kitchen,Italian,4.5,"123 Main St, Downtown",10,"2:3,4:4,6:3",10:00,22:00
+R002,Spice Garden,Indian,4.2,"456 Park Ave, Midtown",8,"2:2,4:3,6:3",11:00,23:00
+R003,Sushi Express,Japanese,4.7,"789 East St, Uptown",12,"2:4,4:5,6:3",12:00,22:30
+R004,Le Bistro,French,4.8,"321 West Blvd, Downtown",6,"2:2,4:2,8:2",18:00,23:00
+R005,Dragon Palace,Chinese,4.0,"567 North Rd, Suburb",15,"2:5,4:6,6:4",11:00,22:00
